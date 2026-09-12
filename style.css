@@ -40,7 +40,7 @@ body {
     background-image:
         radial-gradient(ellipse at center, rgba(13, 27, 61, 0.2) 0%, rgba(2, 4, 10, 0.9) 75%),
         linear-gradient(rgba(4, 8, 18, 0.171), rgba(2, 4, 10, 0.76)),
-        url('/img/fondo.jpg');
+        url('./img/fondo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
